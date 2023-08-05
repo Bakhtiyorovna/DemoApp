@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace DemoApp
 {
     internal class Class3
-    {
-        public int MyProperty { get; set; }
+    { public string s { get; set; }
 
     }
 }
