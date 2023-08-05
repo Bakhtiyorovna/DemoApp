@@ -8,6 +8,6 @@ namespace DemoApp
 {
     internal class Class3
     {
-        public int s { get; set; }
+        public string s { get; set; }
     }
 }
