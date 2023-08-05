@@ -1,6 +1,6 @@
 ﻿namespace DemoApp
 {
-    public class DomainViewModel
+    internal class DomainViewModel
     {
     }
 }
