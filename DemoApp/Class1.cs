@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoApp
 {
-    internal class IClass1
+    public class IClass1
     {
     }
 }
