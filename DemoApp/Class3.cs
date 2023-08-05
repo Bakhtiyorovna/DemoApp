@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace DemoApp
 {
     internal class Class3
-    {
+    { public string s { get; set; }
     }
 }
