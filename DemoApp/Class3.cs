@@ -8,5 +8,7 @@ namespace DemoApp
 {
     internal class Class3
     {
+        public int MyProperty { get; set; }
+
     }
 }
